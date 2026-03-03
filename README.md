@@ -1,6 +1,6 @@
 # TryHackMe Cybersecurity Labs
 
-This repository contains all practical labs and exercises completed on TryHackMe to strengthen foundational cybersecurity skills. It is designed to be **flexible**, so new labs and exercises can be added over time without modifying the main structure.
+This repository contains all practical labs and exercises completed on TryHackMe to strengthen foundational cybersecurity skills.
 
 ---
 
